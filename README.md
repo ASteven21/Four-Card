@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Web](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/ASteven21/Four-Card)
+- Live Site URL: [Live Web](https://asteven21.github.io/Four-Card/)
 
 ## My process
 
